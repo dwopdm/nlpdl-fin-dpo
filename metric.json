@@ -1,0 +1,2 @@
+{"pass@1": 0.16463414634146342}
+{"task_name": "humaneval", "max_new_tokens": 1024, "torch_dtype": "bf16", "do_sample": false, "top_p": 0.95, "temperature": 1, "model_name_or_path": "/scratch/linhaowei/yuandong/output", "evaluate_only": false, "evaluate_data_path": "", "output_path": "./out.jsonl", "save_logs_path": "./logs.jsonl", "save_metrics_path": "./metric.json", "data_file": "./dataset/humaneval_python.jsonl"}
